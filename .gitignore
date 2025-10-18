@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Сборка
+dist/
+build/
+out/
+
+# Временные/рантайм данные
+src/service/uploads/
+
+# Переменные окружения
+.env
+.env.*
+
+# VSC
+.vscode/*
+.idea/
